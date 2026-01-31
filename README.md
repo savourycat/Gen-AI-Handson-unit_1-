@@ -1,4 +1,4 @@
-# Gen-AI-Handson-unit_1-
+# Gen-AI-Handson-unit_1
 # Unit 1 – Generative AI Hands-On
 
 ## Key Concepts Gained
